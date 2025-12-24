@@ -11,14 +11,11 @@
     "starter",
     "boilerplate"
   ],
-  "author": "kosaki56",
+  "author": "Norf-g",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kosaki56/react-typescript-tailwind-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kosaki56/react-typescript-tailwind-starter/issues"
+    "url": "https://github.com/Norf-g/react-tailwind-vite-starter-kit.git"
   },
   "homepage": "https://github.com/kosaki56/react-typescript-tailwind-starter",
   "private": true,
