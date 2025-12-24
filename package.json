@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/Norf-g/react-tailwind-vite-starter-kit.git"
   },
-  "homepage": "https://github.com/kosaki56/react-typescript-tailwind-starter",
+  "homepage": "https://github.com/Norf-g/react-tailwind-vite-starter-kit",
   "private": true,
   "type": "module",
   "dependencies": {
